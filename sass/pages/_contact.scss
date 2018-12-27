@@ -1,0 +1,13 @@
+.contact-us {
+    list-style: none;
+    font-size: 2rem;
+}
+
+.contact-us a {
+    color: $color-primary;
+}
+
+.contact-us a:hover {
+    color: $color-white;
+    background-color: $color-tertiary-light;
+}
